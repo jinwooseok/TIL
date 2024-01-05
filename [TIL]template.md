@@ -5,7 +5,8 @@
 #### 분야
 #### 내용
 #### 의문점
-![line-thin](static/Rectangle_23dark-grey_round_flat.png)
+![line-thin](static/Rectangle_19dark-grey_square_shadow.png)
+
 ## Projects
 ### 프로젝트명
 - ㅁㄴㅇㄹ
@@ -13,14 +14,18 @@
 1. 
 #### Trouble Shooting
 1. 
-![line-thin](static/Rectangle_23dark-grey_round_flat.png)
+![line-thin](static/Rectangle_19dark-grey_square_shadow.png)
+
 ## Coding-test
 #### 분야
 **Title**
+
 **Code**
+
 **Solution**
+
 **Method**
-![line-thin](static/Rectangle_23dark-grey_round_flat.png)
+![line-thin](static/Rectangle_19dark-grey_square_shadow.png)
 ## etc
 #### 분야
 #### 항목
