@@ -1,76 +1,53 @@
 # 2024.00.00 TIL
 
 ## CS & Programming
-#### 1. 제목
-></br>
->
-> **분야**
-    ㅇㅁㄻㅇㅁㄴㅇㄹ
-    </br>
-> **내용**
-    </br>
-> **의문점**
-    </br>
+#### 제목
 
-![line-thin](static/Rectangle_19dark-grey_square_shadow.png)
+##### 분야
+    ㅁㅇㄹㅁㄴㅇㄹㅇㅁㄻㅇㅁㄴㅇㄹ
+
+##### 내용
+    </br>
+##### 의문점
+ㅁㄴㅇㄹ
+
 
 ## Projects
-#### 프로젝트명
-></br>
->
-> #### 작업내역
-> 1. 
-> 2. 
-> #### Trouble Shooting
-> 1. 
-> 2. 
-> </br>
+#### 이름
+##### 작업내역
+1. 
+2. 
+##### Trouble Shooting
+1. 
+2. 
 
-#### 프로젝트명
-></br>
->
-> #### 작업내역
-> 1. 
-> #### Trouble Shooting
-> 1. 
+#### 이름
+##### 작업내역
+1. 
+2. 
+##### Trouble Shooting
+1. 
+2. 
 
-![line-thin](static/Rectangle_19dark-grey_square_shadow.png)
 ## Coding-test
-></br>
->
-> **분야**
->
-> **Title**
->
-> **Code**
->
-> **Solution**
->
-> **Method**
-></br>
+#### Title
+##### 분야
+##### Code
+##### Solution
+##### Method
 
-></br>
->
-> **분야**
->
-> **Title**
->
-> **Code**
->
-> **Solution**
->
-> **Method**
-></br>
+<br>
 
-![line-thin](static/Rectangle_19dark-grey_square_shadow.png)
+#### Title
+##### 분야
+##### Code
+##### Solution
+##### Method
+
 ## etc
-#### 1. 제목
-></br>
->
-> **분야**
-    ㅇㅁㄻㅇㅁㄴㅇㄹ
-</br>
-> **내용**
-</br>
-> **의문점**
-</br>
+#### 제목
+
+##### 분야
+    ㅁㅇㄹㅁㄴㅇㄹㅇㅁㄻㅇㅁㄴㅇㄹ
+
+##### 내용
